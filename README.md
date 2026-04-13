@@ -1,16 +1,51 @@
 ## Hi there 👋
 
-<!--
-**Yashhh25/Yashhh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋 I'm Yadh Singh Sengar</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Playing the long innings in tech 🏏</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🧠 About Me
+
+- 🎓 B.Tech (6th Sem)
+- 💻 Full Stack Developer (in progress 🚧)
+- 🚀 Currently learning backend & system design  
+- 🧩 Practicing problem-solving consistently  
+
+---
+
+## ⚙️ Tech Stack
+
+- Frontend: React, Next.js  
+- Backend: Node.js, Fastify  
+- Database: PostgreSQL, Prisma  
+- Tools: Git, GitHub  
+
+---
+
+## 🏏 My Game Plan
+
+- 🟢 Build strong fundamentals (DSA + backend)  
+- 🟢 Stay consistent with daily learning  
+- 🟢 Focus on understanding, not shortcuts  
+
+---
+
+## ⚡ Current Focus
+
+- System Design (scaling, caching, load balancing)  
+- Backend deep dive (auth, APIs, DB optimization)  
+- Building real-world projects  
+
+---
+
+## 🏆 Mindset
+
+> "Not here for quick runs... building a career that lasts."
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashhh25&show_icons=true&theme=tokyonight" />
+</p>
+
 -->
