@@ -44,8 +44,6 @@
 
 > "Not here for quick runs... building a career that lasts."
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashhh25&show_icons=true&theme=tokyonight" />
-</p>
+
 
 -->
