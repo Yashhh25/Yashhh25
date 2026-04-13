@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hey 👋 I'm Yadh Singh Sengar</h1>
+<h1 align="center">Hey 👋 I'm Yash Singh Sengar</h1>
 
 <h3 align="center">Playing the long innings in tech 🏏</h3>
 
