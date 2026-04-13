@@ -6,44 +6,54 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+---
+
 ## 🧠 About Me
 
 - 🎓 B.Tech (6th Sem)
 - 💻 Full Stack Developer (in progress 🚧)
-- 🚀 Currently learning backend & system design  
-- 🧩 Practicing problem-solving consistently  
+- 🚀 Learning backend & system design  
+- 🧩 Improving problem-solving skills  
 
 ---
 
 ## ⚙️ Tech Stack
 
-- Frontend: React, Next.js  
-- Backend: Node.js, Fastify  
-- Database: PostgreSQL, Prisma  
-- Tools: Git, GitHub  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,git,github" />
+</p>
 
 ---
 
 ## 🏏 My Game Plan
 
-- 🟢 Build strong fundamentals (DSA + backend)  
-- 🟢 Stay consistent with daily learning  
-- 🟢 Focus on understanding, not shortcuts  
+- 🟢 Strong fundamentals (DSA + backend)  
+- 🟢 Consistent learning  
+- 🟢 Focus on understanding over shortcuts  
 
 ---
 
 ## ⚡ Current Focus
 
 - System Design (scaling, caching, load balancing)  
-- Backend deep dive (auth, APIs, DB optimization)  
+- - Backend (JWT auth, APIs, DB optimization)  
 - Building real-world projects  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashhh25&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🏆 Mindset
 
 > "Not here for quick runs... building a career that lasts."
-
-
-
 -->
